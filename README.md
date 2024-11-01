@@ -8,6 +8,7 @@ A simple To-Do list API built using **FastAPI**. This project provides basic CRU
 - **Read Tasks**: View all tasks or individual task details.
 - **Update a Task**: Modify existing tasks.
 - **Delete a Task**: Remove tasks when completed.
+![image](https://github.com/user-attachments/assets/42c9aee9-5907-4835-80a8-236828765164)
 
 ## Getting Started
 
